@@ -1,0 +1,16 @@
+| No | Level | Date | Time | Text |
+|1|DEBUG|22 Mar 2020|08:51 AM|:.main: Using log level 511|
+|2|DEBUG|22 Mar 2020|08:51 AM|:...read_physical_netif: index #0, interface VLINK1 has address 129.1.1.1, ifidx 0|
+|3|DEBUG|22 Mar 2020|08:51 AM|:....mailslot_create: creating mailslot for timer|
+|4|DEBUG|22 Mar 2020|08:51 AM|:.....mailslot_create: creating mailslot for RSVP via UDP|
+|5|DEBUG|22 Mar 2020|08:51 AM|:.....mailslot_create: creating mailslot for RSVP|
+|6|DEBUG|22 Mar 2020|08:51 AM|:......mailslot_create: creating socket for querying route|
+|7|DEBUG|22 Mar 2020|08:51 AM|:....mailslot_create: creating mailslot for RSVP client API|
+|8|DEBUG|22 Mar 2020|08:51 AM|:...mailbox_register: mailbox allocated for rsvp-api|
+|9|DEBUG|22 Mar 2020|08:51 AM|:...mailslot_create: creating mailslot for terminate|
+|10|DEBUG|23 Mar 2020|08:52 AM|:.......init_policyAPI: APIInitialize: ApiHandle = 98BDFB0, connfd = 22|
+|11|DEBUG|23 Mar 2020|08:52 AM|:.......init_policyAPI: ReadBuffer: Exiting|
+|12|DEBUG|23 Mar 2020|08:52 AM|:......rpapi_getPolicyData: RSVPFindActionName: Result = 0|
+|13|DEBUG|23 Mar 2020|08:52 AM|:......rpapi_getPolicyData: RSVPFindServiceDetailsOnActName: Result = 0|
+|14|DEBUG|22 Mar 2020|08:51 AM|:.main: Using log level 511|
+|15|DEBUG|22 Mar 2020|08:51 AM|:...read_physical_netif: index #0, interface VLINK1 has address 129.1.1.1, ifidx 0|
